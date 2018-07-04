@@ -4,8 +4,8 @@
     "description": "Implements concrete Queue for the RabbitMQ",
     "license": "MIT",
     "require": {
-        "flowpack/jobqueue-common": "^2.0.0",
-        "php-amqplib/php-amqplib": "^2.7.0"
+        "flowpack/jobqueue-common": "*",
+        "php-amqplib/php-amqplib": "*"
     },
     "autoload": {
         "psr-4": {
